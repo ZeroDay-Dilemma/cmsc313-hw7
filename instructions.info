@@ -1,0 +1,25 @@
+PART I:
+
+    View the following video: Git And GitHub Full Course | Complete Git And GitHub Tutorial For Beginners
+    Read the following reference: How to Use Git and GitHub – a Guide for Beginners and Experienced Developers
+    View the following video to setup your personal access token: Using Personal Access Tokens with GIT and GitHub
+
+ 
+
+Setup you github repository on github.com if you don't already have one.
+
+
+ASSESSMENT: The repository can be accessed, downloaded and viewed.
+
+
+PART II:
+
+    Download the github repository https://github.com/iotkidd/313ClassKidd.git
+    Obtain the x86 assembly code (.s) for addmats.cpp, addmatsSimple.c, and addmatsSubr.c
+    Write up your general observations on how the assembly looks the same and different for each of the programs. Your observations don't need to be deep or specific, only general. Note that "It's more complicated" isn't going to cut it.
+
+
+ASSESSMENT: The x86 assembly code is successfully generated and relevant observations made.
+
+
+NOTE: The assessment is evaluated on the quality of the result. Just because you satisfied the basic requirements does not guarantee it is of high quality.
